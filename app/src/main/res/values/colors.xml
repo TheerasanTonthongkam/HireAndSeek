@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#20b7ec</color>
+    <color name="colorPrimaryDark">#3587c9</color>
+    <color name="colorAccent">#ff8a3c</color>
+    <color name="textPrimary">#0099cc</color>
+
+    <color name="nav_item_icon_tint_color">#333</color>
+    <color name="nav_item_text_color">#333</color>
+    <color name="end_gradient">#2fd4b9</color>
+    <color name="start_gradient">#20b7ec</color>
+    <color name="end_gradient_overlay">#302fd4b9</color>
+    <color name="start_gradient_overlay">#0020b7ec</color>
+    <color name="start_gradient_overlay2">#AA20b7ec</color>
+    <color name="header_overlay">#30000000</color>
+    <color name="solid_white">#FFFFFF</color>
+    <color name="text_primary">@color/colorAccent</color>
+    <color name="selected">@color/colorAccent</color>
+    <color name="deselected">#d1d1d1</color>
+    <color name="divider">#e1e1e1</color>
+    <color name="section_divider">#e9eded</color>
+</resources>

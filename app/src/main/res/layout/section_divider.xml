@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/section_divider"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line"
+        android:background="@color/divider"/>
+    <View
+        android:layout_marginTop="@dimen/section_devider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line"
+        android:background="@color/divider"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hire and Seek</string>
+    <string name="txt_yo_yo">YOLO</string>
+    <string name="hello_world">Hello it\'s me</string>
+    <string name="action_settings">Setting</string>
+    <string name="full_name">Theerasan Tonthongkam</string>
+    <string name="position">Senior software Engineer</string>
+    <string name="company">At Ampos Solution Inc.</string>
+    <string name="work_year_caption">Years of work</string>
+    <string name="projects_caption">Projects</string>
+    <string name="award_caption">Awards</string>
+    <string name="exp_caption">EXP</string>
+    <string name="profile_caption">Profile</string>
+    <string name="education_caption">Education</string>
+</resources>

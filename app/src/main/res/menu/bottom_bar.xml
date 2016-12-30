@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/exp_item"
+        android:icon="@drawable/exp"
+        android:title="@string/exp_caption"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/project_item"
+        android:icon="@drawable/project"
+        android:title="@string/projects_caption"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/profile_item"
+        android:icon="@drawable/user"
+        android:title="@string/profile_caption"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/award_item"
+        android:icon="@drawable/award"
+        android:title="@string/award_caption"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/education_item"
+        android:icon="@drawable/education"
+        android:title="@string/education_caption" />
+</menu>

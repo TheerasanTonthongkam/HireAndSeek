@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="fab_margin_right">0.1dp</dimen>
+    <dimen name="fab_margin_bottom">0.1dp</dimen>
+
+    <dimen name="app_bar_height">256dp</dimen>
+    <dimen name="nav_header_height">192dp</dimen>
+
+    <dimen name="expanded_toolbar_title_margin_start">64dp</dimen>
+
+    <dimen name="nav_header_text_margin_left">16dp</dimen>
+    <dimen name="avatar_sqr">96dp</dimen>
+    <dimen name="h1">36sp</dimen>
+    <dimen name="h2">32sp</dimen>
+    <dimen name="h3">28sp</dimen>
+    <dimen name="h4">24sp</dimen>
+    <dimen name="h5">18sp</dimen>
+    <dimen name="p">16sp</dimen>
+    <dimen name="ps">14sp</dimen>
+    <dimen name="pxs">12sp</dimen>
+
+    <dimen name="vertical_spacing_normal">16dp</dimen>
+    <dimen name="vertical_spacing_small">8dp</dimen>
+    <dimen name="icon_padding">5dp</dimen>
+
+    <dimen name="line">1dp</dimen>
+    <dimen name="horizontal_spacing_small">5dp</dimen>
+    <dimen name="section_devider">16dp</dimen>
+</resources>
